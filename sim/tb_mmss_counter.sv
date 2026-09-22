@@ -8,7 +8,7 @@ module tb_mmss_counter;
 
 	always #10 clk_50mhz=~clk_50mhz;
 
-	mmss_counter #(.CLK_HZ(2)) dut(
+	mmss_counter #(.CLK_HZ(4)) dut(
 		.clk(clk_50mhz),.rst_p(rst_p),.minute_tens(mt),.minute_ones(mo),
 		.second_tens(st),.second_ones(so));
 
