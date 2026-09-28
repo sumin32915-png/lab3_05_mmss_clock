@@ -1,0 +1,9 @@
+0.7
+2020.2
+Jun 16 2026
+11:10:11
+C:/Users/sumin/lab3_23_mmss_clock/05_mmss_clock.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/sumin/lab3_23_mmss_clock/sim/tb_mmss_counter.sv,1790054244,systemVerilog,,,,tb_mmss_counter,,uvm,../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/sumin/lab3_23_mmss_clock/src/lab3_mmss_clock.v,1790053830,verilog,,,,lab3_mmss_clock,,,../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/sumin/lab3_23_mmss_clock/src/mmss_counter.v,1790053830,verilog,,C:/Users/sumin/lab3_23_mmss_clock/src/sevenseg_decode.v,,mmss_counter,,uvm,../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/sumin/lab3_23_mmss_clock/src/sevenseg_decode.v,1790053830,verilog,,C:/Users/sumin/lab3_23_mmss_clock/src/lab3_mmss_clock.v,,sevenseg_decode,,uvm,../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,

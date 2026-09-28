@@ -1,0 +1,7 @@
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'tb_mmss_counter_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:03 ; elapsed = 00:00:07 . Memory (MB): peak = 1749.199 ; gain = 0.000
+run all
+LAB3_MMSS_PASS checks=7
+$finish called at time : 144031 ns : File "C:/Users/sumin/lab3_23_mmss_clock/sim/tb_mmss_counter.sv" Line 52

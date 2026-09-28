@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/sumin/lab3_23_mmss_clock/src/mmss_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mmss_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/sumin/lab3_23_mmss_clock/src/sevenseg_decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sevenseg_decode
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/sumin/lab3_23_mmss_clock/sim/tb_mmss_counter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_mmss_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/sumin/lab3_23_mmss_clock/05_mmss_clock.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
